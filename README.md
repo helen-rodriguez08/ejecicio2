@@ -1,0 +1,2 @@
+# ejecicio2
+blog
